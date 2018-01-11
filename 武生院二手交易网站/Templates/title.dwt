@@ -12,19 +12,37 @@
 
 <body>
  <div id="head">
- 
+ 	<div id="title_logo">
+    	<img src="../img/标志.jpg" width="320px" height="120px" />
+    </div>
+    <div id="s">
+    	<input type="text" name="sear" id="sear" placeholder="书名，作者搜索" autocomplete="off" style="height:38px; line-height:38px;" />
+        <input type="submit" id="sear_btn" value="搜索" style="height:38px; width:50px; line-height:38px;"  />
+    </div>
+    <div id="dh">
+    	<div id="dh_l">
+        	<ul>
+                <li><a href="../index.html">首页</a></li>
+                <li><a href="#">图书分类</a></li>
+                <li><a href="../announcement.html">书店公告</a></li>
+                <li><a href="#">书店专题</a></li>
+       		</ul>
+        </div>
+        <div id="dh_r">
+        	<p style="font-size:small;">买二手书、正版旧图书、二手教材、大学教材就上生院二手书店！！</p>
+        </div>
+    </div>
  </div>
 <div id="top_line">
- 
- </div>
+</div>
  <!-- TemplateBeginEditable name="ER_body" -->
  
  <!-- TemplateEndEditable -->
- <div id="foot_line">
-   
+ <div id="foot_line"> 
  </div>
  <div id="foot">
- 
+ 	<p style="font-size:small;">买二手书、正版旧图书、二手教材、大学教材就上生院二手书店！！</p>
+    <p style="font-size:small;">作者：S</p>
  </div>
 </body>
 </html>

@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+#bd{
+	border:0px;
+	margin:auto;
+	width:800px;
+	height:auto;
+	}
+.am_tip{
+	position:relative;
+	border:0px;
+	border-bottom:1px solid #F00;
+	background-color:#EFEFEF;
+	width:800px;
+	height:250px;
+	}
+.am_btn{
+	position:absolute;
+	left:700px;
+	top:200px;
+	border:1px solid #F00;
+	background-color:#FFF;
+	color:#F00;
+	width:60px;
+	height:30px;
+	}
